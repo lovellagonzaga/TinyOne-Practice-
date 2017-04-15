@@ -1,0 +1,15 @@
+/* project styles */
+
+@import 'footer-box.scss';
+@import 'first-box.scss';
+@import 'second-box.scss';
+
+body{
+
+  background: #fcdb00!important;
+
+  h1, h2, p, h4{
+    font-family: calibri;
+  }
+
+}

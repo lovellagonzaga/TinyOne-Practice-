@@ -1,0 +1,35 @@
+/* footer box styles*/
+.footer {
+  bottom: 0;
+  width: 100%;
+  background: #000 !important; }
+  .footer h1, .footer h2 {
+    text-align: center; }
+  .footer h1 {
+    color: #fcdb00; }
+  .footer h2 {
+    color: #898989;
+    font-size: 24px; }
+  .footer .container {
+    padding-top: 95px;
+    padding-bottom: 140px;
+    padding-left: 240px;
+    float: left; }
+    .footer .container #stuffs {
+      color: #fff !important; }
+      .footer .container #stuffs ul li {
+        list-style-type: none; }
+        .footer .container #stuffs ul li a {
+          color: #fff !important; }
+  .footer .form-group {
+    width: 582px;
+    margin-top: 42px;
+    margin-bottom: 78px;
+    margin-left: 40px;
+    float: left; }
+    .footer .form-group input {
+      height: 52px; }
+  .footer button {
+    float: right; }
+  .footer #dn {
+    color: #000; }

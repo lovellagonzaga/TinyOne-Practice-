@@ -1,0 +1,63 @@
+/* footer box styles*/
+
+.footer{
+	
+	bottom: 0;
+	width: 100%;
+	background: #000!important;
+
+	h1, h2{
+		text-align: center;
+	}
+
+	h1{
+		color: #fcdb00;
+	}
+
+	h2{
+		color: #898989;
+		font-size: 24px;
+	}
+
+	.container{
+
+		padding-top: 95px;
+		padding-bottom: 140px;
+		padding-left: 240px;
+		float: left;
+
+		#stuffs{
+
+		color: #fff!important;
+
+			ul{
+				li{
+					list-style-type: none;
+					a{
+						color: #fff!important;
+					}
+				}
+			}
+		}
+	}
+
+	.form-group{
+		width: 582px;
+		margin-top: 42px;
+		margin-bottom: 78px;
+		margin-left: 40px;
+		float: left;
+			input{
+				height: 52px;
+			}
+	}
+
+	button{
+		float: right;
+	}
+
+	#dn{
+		color: #000;
+	}
+
+}
